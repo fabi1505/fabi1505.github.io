@@ -1,0 +1,183 @@
+
+.tit p 
+{
+    margin-top: 100px;
+    color: #271f36;
+    display: inline-block;
+    position: relative;
+    left: 340px;
+    font-family: cursive;
+    font-size: 60px;
+    
+}
+.tit p:last-of-type 
+{
+  background-color: #90e5ff;
+  border-radius: 25px;
+  
+}
+
+
+
+.grupo1 {
+    border-radius: 10px;
+    position: relative;
+    top: 100px;
+    background-color: #000000;
+    margin-top:100px ;
+    
+    
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+
+
+
+.grupo1 p
+{
+    position: relative;
+    top: 25px;
+    left: 300px;
+    font-size:15px;
+    color: #FFFFFF;
+    padding-left: 50px;
+}
+
+.grupo1 p img 
+{
+    
+    display: inline;
+    height: 120px;
+    width: 250px;
+    
+}
+
+.Menu_opt 
+{
+   
+    height: 100px;
+    width: 300px;
+    position: sticky;
+    left: 36%;
+    bottom: 500px;
+    border: 3px solid #ecfbff00;
+    background-color: #93becb;
+    border-radius: 25px;
+}
+.home img {
+    position: relative;
+    left: 50px;
+    top: 4px;
+    width: 30px;
+    height: 30px;
+    border: 3px solid #152055;
+}
+.home img:hover 
+{
+    
+    background-color: #0016bd;
+
+}
+
+.Menu_lugares 
+{
+    display: inline-block;
+    position: relative;
+    bottom: -20px;
+    right: -10px;
+    border-radius: 35px;
+    
+}
+
+
+
+.lugares
+{
+    display: none;
+    position:absolute;
+    width: 200px;
+    overflow: auto;
+        
+}
+ 
+
+.Menu_lugares:hover .lugares 
+{
+    display: block;
+}
+
+.lugares a 
+{
+display: block;
+color: #000000;
+
+text-decoration: none;
+}
+.lugares a:hover 
+{
+    color: #ffffff;
+    background-color: #0016bd;
+
+}
+.inf_sobre_refugio {
+    width: 90%;
+    height: 500px;
+    background-color: rgb(161, 231, 235);
+}
+.fotos_box
+{
+    position: relative;
+    height: 600px;
+    width: 90%;
+    background: #273076;
+    margin-left: 50px;
+}
+
+.fotos_box img {
+    width: 100px;
+    height: 100px;
+}
+.imagenes_mascotas
+{
+    margin-left: 50px;
+    border: 3px solid #000000; 
+    display: inline-block;
+    
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+
+}
+
+.perro1 img {
+    height: 200px;
+    width: 200px;
+}
+.perro2 img {
+    height: 200px;
+    width: 200px;
+}
+.perro3 img {
+    height: 200px;
+    width: 200px;
+}
+.perro4 img {
+    height: 200px;
+    width: 200px;
+}
+
+
+
+.imagenes_mascotas_2 
+{
+    margin-left: 50px;
+    border: 3px solid #000000; 
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+.perro5 img {
+    height: 200px;
+    width: 200px;
+}
